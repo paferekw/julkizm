@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'pl-pl'
+title = 'Julkowa Pisanina'
+theme = 'hugo-clarity'
+# theme = 'hugo-theme-m10c'
